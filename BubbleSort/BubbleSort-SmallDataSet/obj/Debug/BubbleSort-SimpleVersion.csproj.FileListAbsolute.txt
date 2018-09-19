@@ -1,0 +1,7 @@
+C:\Users\brian\Downloads\BubbleSort\BubbleSort\BubbleSort-SmallDataSet\bin\Debug\BubbleSort-SmallDataSet.exe.config
+C:\Users\brian\Downloads\BubbleSort\BubbleSort\BubbleSort-SmallDataSet\bin\Debug\BubbleSort-SmallDataSet.exe
+C:\Users\brian\Downloads\BubbleSort\BubbleSort\BubbleSort-SmallDataSet\bin\Debug\BubbleSort-SmallDataSet.pdb
+C:\Users\brian\Downloads\BubbleSort\BubbleSort\BubbleSort-SmallDataSet\obj\Debug\BubbleSort-SimpleVersion.csprojAssemblyReference.cache
+C:\Users\brian\Downloads\BubbleSort\BubbleSort\BubbleSort-SmallDataSet\obj\Debug\BubbleSort-SimpleVersion.csproj.CoreCompileInputs.cache
+C:\Users\brian\Downloads\BubbleSort\BubbleSort\BubbleSort-SmallDataSet\obj\Debug\BubbleSort-SmallDataSet.exe
+C:\Users\brian\Downloads\BubbleSort\BubbleSort\BubbleSort-SmallDataSet\obj\Debug\BubbleSort-SmallDataSet.pdb
